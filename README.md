@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @symo-058
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning develop functioning websites and web apps.
+- 🌱 I’m currently learning to develop functioning websites and web apps.
 - 📫 How to reach me. Email me at onlineworks058@gmail.com
 
 <!---
